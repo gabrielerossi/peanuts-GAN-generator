@@ -1,0 +1,3 @@
+This section of the project covers the training of the StyleGAN network, with examples related to training and generation for both the Snoopy network and the network with both characters. Accompanying this are the "requirements.txt" file, which is necessary for installing the required libraries, and the "StyleGAN2-ADA-PyTorch" project, obtained from the corresponding repository on GitHub at https://github.com/NVlabs/stylegan2-ada-pytorch.
+
+Finally, a training result is presented that can be found in the path "nomir_ADA_0.4096," which contains the logs of the last execution. The file "network-snapshot-000600.pkl" can be used as a pre-trained template for generating sample Snoopy images.
