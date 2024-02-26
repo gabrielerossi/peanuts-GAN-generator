@@ -9,7 +9,7 @@ import numpy as np
 from tqdm import tqdm
 
 
-class FrameExtractor:
+class PanelExtractor:
     def extract_and_save_panels(self, img_paths, out_directory, iterations=15, thresh_type='adaptive'):
         """
         Extracts panels and saves them to disk.
